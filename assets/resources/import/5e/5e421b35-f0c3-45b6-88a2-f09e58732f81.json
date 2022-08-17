@@ -1,0 +1,45 @@
+[
+  1,
+  [
+    "074OzCIUFIhaxEOGK17uf7"
+  ],
+  [
+    "_texture"
+  ],
+  [
+    [
+      "dragonBones.DragonBonesAtlasAsset",
+      [
+        "_name",
+        "_atlasJson"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "10008_tex",
+      "{\"width\":512,\"SubTexture\":[{\"width\":106,\"y\":222,\"height\":22,\"name\":\"yy\",\"x\":1},{\"width\":35,\"y\":169,\"height\":35,\"name\":\"a_piao4\",\"x\":225},{\"width\":8,\"y\":240,\"height\":14,\"name\":\"a piao4_0\",\"x\":265},{\"width\":35,\"y\":168,\"height\":73,\"name\":\"a_piao3\",\"x\":146},{\"width\":13,\"y\":223,\"height\":25,\"name\":\"a piao3_0\",\"x\":328},{\"width\":58,\"y\":1,\"height\":54,\"name\":\"a_piao_2\",\"x\":153},{\"width\":15,\"y\":223,\"height\":23,\"name\":\"a piao 2_0\",\"x\":311},{\"width\":18,\"y\":240,\"height\":15,\"name\":\"a piao 2_1\",\"x\":245},{\"width\":26,\"y\":107,\"height\":60,\"name\":\"a_piao_1\",\"x\":225},{\"width\":8,\"y\":206,\"height\":14,\"name\":\"a piao 1_0\",\"x\":98},{\"width\":14,\"y\":84,\"height\":10,\"name\":\"a piao 1_1\",\"x\":265},{\"width\":83,\"y\":1,\"height\":116,\"name\":\"guanzi\",\"x\":1},{\"width\":40,\"y\":168,\"height\":51,\"name\":\"gu_tou1\",\"x\":183},{\"width\":24,\"y\":223,\"height\":19,\"name\":\"gu_tou2\",\"x\":285},{\"width\":13,\"y\":41,\"height\":40,\"name\":\"diaozhiu\",\"x\":294},{\"width\":46,\"y\":75,\"height\":91,\"name\":\"toufa1\",\"x\":146},{\"width\":68,\"y\":119,\"height\":101,\"name\":\"toufa\",\"x\":1},{\"width\":65,\"y\":1,\"height\":72,\"name\":\"mao_1\",\"x\":86},{\"width\":25,\"y\":206,\"height\":13,\"name\":\"youshou1\",\"x\":71},{\"width\":36,\"y\":57,\"height\":48,\"name\":\"youshou\",\"x\":194},{\"width\":7,\"y\":83,\"height\":35,\"name\":\"guashi_1\",\"x\":296},{\"width\":28,\"y\":1,\"height\":51,\"name\":\"qun_3\",\"x\":213},{\"width\":8,\"y\":206,\"height\":8,\"name\":\"zuotui3\",\"x\":225},{\"width\":6,\"y\":240,\"height\":13,\"name\":\"zuo_tui2\",\"x\":275},{\"width\":9,\"y\":83,\"height\":21,\"name\":\"zuo_tui1\",\"x\":305},{\"width\":6,\"y\":206,\"height\":8,\"name\":\"zuo_tui3\",\"x\":235},{\"width\":9,\"y\":57,\"height\":16,\"name\":\"zuo tui2_0\",\"x\":153},{\"width\":11,\"y\":142,\"height\":21,\"name\":\"zuo tui1_0\",\"x\":300},{\"width\":12,\"y\":84,\"height\":49,\"name\":\"qun_2\",\"x\":282},{\"width\":28,\"y\":107,\"height\":52,\"name\":\"qun_1\",\"x\":194},{\"width\":14,\"y\":167,\"height\":35,\"name\":\"shenti_1\",\"x\":262},{\"width\":12,\"y\":120,\"height\":20,\"name\":\"diao_zhui\",\"x\":296},{\"width\":27,\"y\":48,\"height\":34,\"name\":\"shenti\",\"x\":265},{\"width\":14,\"y\":1,\"height\":20,\"name\":\"zuo_xiuzi_1\",\"x\":308},{\"width\":27,\"y\":101,\"height\":40,\"name\":\"zuo__xiuzi\",\"x\":253},{\"width\":38,\"y\":206,\"height\":32,\"name\":\"mao\",\"x\":245},{\"width\":13,\"y\":1,\"height\":44,\"name\":\"guashi\",\"x\":276},{\"width\":73,\"y\":119,\"height\":85,\"name\":\"tou\",\"x\":71},{\"width\":15,\"y\":1,\"height\":38,\"name\":\"diaozhui\",\"x\":291},{\"width\":31,\"y\":167,\"height\":31,\"name\":\"zuoshou\",\"x\":282},{\"width\":31,\"y\":1,\"height\":45,\"name\":\"pao10017\",\"x\":243},{\"width\":31,\"y\":54,\"height\":45,\"name\":\"pao10015\",\"x\":232},{\"width\":31,\"y\":206,\"height\":45,\"name\":\"pao10001\",\"x\":109},{\"frameWidth\":72,\"y\":143,\"frameHeight\":46,\"width\":45,\"frameX\":-5,\"height\":22,\"name\":\"yan-4\",\"frameY\":-13,\"x\":253},{\"frameWidth\":72,\"y\":221,\"frameHeight\":46,\"width\":60,\"frameX\":-5,\"height\":31,\"name\":\"yan-3\",\"frameY\":-5,\"x\":183},{\"frameWidth\":72,\"y\":75,\"frameHeight\":46,\"width\":57,\"frameX\":-6,\"height\":27,\"name\":\"yan-2\",\"frameY\":-9,\"x\":86},{\"frameWidth\":72,\"y\":200,\"frameHeight\":46,\"width\":45,\"frameX\":-19,\"height\":21,\"name\":\"yan-1\",\"frameY\":-15,\"x\":285}],\"height\":256,\"name\":\"10008\",\"imagePath\":\"10008_tex.png\"}"
+    ]
+  ],
+  0,
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

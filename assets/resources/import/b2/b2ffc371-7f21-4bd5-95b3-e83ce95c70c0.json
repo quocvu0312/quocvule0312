@@ -1,0 +1,45 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.JsonAsset",
+      [
+        "_name",
+        "json"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "UIFormsConfigInfo",
+      {
+        "ConfigInfo": [
+          {
+            "Key": "本配置文件说明"
+          },
+          {
+            "Key": "Loading",
+            "Value": "Prefabs\\Loading"
+          }
+        ]
+      }
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

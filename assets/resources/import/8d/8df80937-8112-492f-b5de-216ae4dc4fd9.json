@@ -1,0 +1,1823 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.JsonAsset",
+      [
+        "_name",
+        "json"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "file",
+      {
+        "items": [
+          {
+            "id": 3001,
+            "level": 1,
+            "icon": "4",
+            "attack": 2,
+            "health": 0,
+            "speed": 0,
+            "defends": 0,
+            "type": 1,
+            "position": 3,
+            "name": "bao tay",
+            "descretion": "bao tay",
+            "slTach": 5
+          },
+          {
+            "id": 3011,
+            "level": 2,
+            "icon": "10",
+            "attack": 3,
+            "health": 0,
+            "speed": 0,
+            "defends": 0,
+            "type": 1,
+            "position": 3,
+            "name": "bao tay",
+            "descretion": "bao tay",
+            "slTach": 10
+          },
+          {
+            "id": 2001,
+            "level": 1,
+            "icon": "2",
+            "attack": 0,
+            "health": 0,
+            "speed": 0,
+            "defends": 2,
+            "type": 1,
+            "position": 2,
+            "name": "ao",
+            "descretion": "ao",
+            "slTach": 5
+          },
+          {
+            "id": 2011,
+            "level": 2,
+            "icon": "8",
+            "attack": 0,
+            "health": 0,
+            "speed": 0,
+            "defends": 3,
+            "type": 1,
+            "position": 2,
+            "name": "ao",
+            "descretion": "ao",
+            "slTach": 10
+          },
+          {
+            "id": 1001,
+            "level": 1,
+            "icon": "1",
+            "attack": 0,
+            "health": 2,
+            "speed": 0,
+            "defends": 0,
+            "type": 1,
+            "position": 1,
+            "name": "mu",
+            "descretion": "mu",
+            "slTach": 5
+          },
+          {
+            "id": 1011,
+            "level": 2,
+            "icon": "7",
+            "attack": 0,
+            "health": 3,
+            "speed": 0,
+            "defends": 0,
+            "type": 1,
+            "position": 1,
+            "name": "mu",
+            "descretion": "mu",
+            "slTach": 10
+          },
+          {
+            "id": 4001,
+            "level": 1,
+            "icon": "6",
+            "attack": 0,
+            "health": 0,
+            "speed": 1,
+            "defends": 0,
+            "type": 1,
+            "position": 4,
+            "name": "giay",
+            "descretion": "giay",
+            "slTach": 5
+          },
+          {
+            "id": 4011,
+            "level": 2,
+            "icon": "12",
+            "attack": 0,
+            "health": 0,
+            "speed": 2,
+            "defends": 0,
+            "type": 1,
+            "position": 4,
+            "name": "giay",
+            "descretion": "giay",
+            "slTach": 10
+          },
+          {
+            "id": 5001,
+            "level": 3,
+            "icon": "gem_blue_6",
+            "attack": 0,
+            "health": 0,
+            "speed": 0,
+            "defends": 0,
+            "type": 2,
+            "position": 0,
+            "name": "Đá Nguyên Liệu",
+            "descretion": "Đá nguyên liệu",
+            "slTach": 0
+          },
+          {
+            "id": 3021,
+            "level": 3,
+            "icon": "16",
+            "attack": 0,
+            "health": 0,
+            "speed": 0,
+            "defends": 0,
+            "type": 1,
+            "position": 3,
+            "name": "[Good]- Bao Tay",
+            "descretion": "[Good]- Bao Tay",
+            "slTach": 30
+          },
+          {
+            "id": 3031,
+            "level": 4,
+            "icon": "22",
+            "attack": 0,
+            "health": 0,
+            "speed": 0,
+            "defends": 0,
+            "type": 1,
+            "position": 3,
+            "name": "[Great]- Bao Tay",
+            "descretion": "[Great]- Bao Tay",
+            "slTach": 40
+          },
+          {
+            "id": 3041,
+            "level": 5,
+            "icon": "28",
+            "attack": 0,
+            "health": 0,
+            "speed": 0,
+            "defends": 0,
+            "type": 1,
+            "position": 3,
+            "name": "[Perfect]- Bao Tay",
+            "descretion": "[Perfect]- Bao Tay",
+            "slTach": 50
+          },
+          {
+            "id": 4021,
+            "level": 3,
+            "icon": "18",
+            "attack": 0,
+            "health": 0,
+            "speed": 0,
+            "defends": 0,
+            "type": 1,
+            "position": 4,
+            "name": "[Good]- Giày",
+            "descretion": "[Good]- Giày",
+            "slTach": 30
+          },
+          {
+            "id": 4031,
+            "level": 4,
+            "icon": "24",
+            "attack": 0,
+            "health": 0,
+            "speed": 0,
+            "defends": 0,
+            "type": 1,
+            "position": 4,
+            "name": "[Great]- Giày",
+            "descretion": "[Great]- Giày",
+            "slTach": 40
+          },
+          {
+            "id": 4041,
+            "level": 5,
+            "icon": "30",
+            "attack": 0,
+            "health": 0,
+            "speed": 0,
+            "defends": 0,
+            "type": 1,
+            "position": 4,
+            "name": "[Perfect]- Giày",
+            "descretion": "[Perfect]- Giày",
+            "slTach": 50
+          },
+          {
+            "id": 1021,
+            "level": 3,
+            "icon": "13",
+            "attack": 0,
+            "health": 0,
+            "speed": 0,
+            "defends": 0,
+            "type": 1,
+            "position": 1,
+            "name": "[Good]- Nón",
+            "descretion": "[Good]- Nón",
+            "slTach": 30
+          },
+          {
+            "id": 1031,
+            "level": 4,
+            "icon": "19",
+            "attack": 0,
+            "health": 0,
+            "speed": 0,
+            "defends": 0,
+            "type": 1,
+            "position": 1,
+            "name": "[Great]- Nón",
+            "descretion": "[Great]- Nón",
+            "slTach": 40
+          },
+          {
+            "id": 1041,
+            "level": 5,
+            "icon": "25",
+            "attack": 0,
+            "health": 0,
+            "speed": 0,
+            "defends": 0,
+            "type": 1,
+            "position": 1,
+            "name": "[Perfect]- Nón",
+            "descretion": "[Perfect]- Nón",
+            "slTach": 50
+          },
+          {
+            "id": 2021,
+            "level": 3,
+            "icon": "14",
+            "attack": 0,
+            "health": 0,
+            "speed": 0,
+            "defends": 0,
+            "type": 1,
+            "position": 2,
+            "name": "[Good]- Giáp",
+            "descretion": "[Good]- Giáp",
+            "slTach": 30
+          },
+          {
+            "id": 2031,
+            "level": 4,
+            "icon": "20",
+            "attack": 0,
+            "health": 0,
+            "speed": 0,
+            "defends": 0,
+            "type": 1,
+            "position": 2,
+            "name": "[Great]- Giáp",
+            "descretion": "[Great]- Giáp",
+            "slTach": 40
+          },
+          {
+            "id": 2041,
+            "level": 5,
+            "icon": "26",
+            "attack": 0,
+            "health": 0,
+            "speed": 0,
+            "defends": 0,
+            "type": 1,
+            "position": 2,
+            "name": "[Perfect]- Giáp",
+            "descretion": "[Perfect]- Giáp",
+            "slTach": 50
+          }
+        ],
+        "skill": [
+          {
+            "m_Id": 1001,
+            "m_icon": "nanzhujue_1_longxianquan_y",
+            "m_GemCost": 10,
+            "m_PathSprite": "buff_leader",
+            "m_Desc": "x2 công chủ tướng",
+            "m_BuffDuration": 400,
+            "m_GoldUpdate": 10,
+            "m_GemLock": 50,
+            "m_type": 1,
+            "m_value": 2
+          },
+          {
+            "m_Id": 1002,
+            "m_icon": "nanzhujue_1_qiangxinji_y",
+            "m_GemCost": 10,
+            "m_PathSprite": "buff_leader",
+            "m_Desc": "x2 công hỗ trợ",
+            "m_BuffDuration": 400,
+            "m_GoldUpdate": 10,
+            "m_GemLock": 50,
+            "m_type": 2,
+            "m_value": 2
+          },
+          {
+            "m_Id": 1003,
+            "m_icon": "nanzhujue_2_baofajian_y",
+            "m_GemCost": 10,
+            "m_PathSprite": "buff_leader",
+            "m_Desc": "x2 tài nguyên",
+            "m_BuffDuration": 600,
+            "m_GoldUpdate": 10,
+            "m_GemLock": 50,
+            "m_type": 3,
+            "m_value": 2
+          },
+          {
+            "m_Id": 1004,
+            "m_icon": "nanzhujue_2_heidong_y",
+            "m_GemCost": 20,
+            "m_PathSprite": "buff_leader",
+            "m_Desc": "x3 công chủ tướng",
+            "m_BuffDuration": 400,
+            "m_GoldUpdate": 20,
+            "m_GemLock": 60,
+            "m_type": 1,
+            "m_value": 3
+          },
+          {
+            "m_Id": 1005,
+            "m_icon": "nanzhujue_2_jisuchongfeng_y",
+            "m_GemCost": 20,
+            "m_PathSprite": "buff_leader",
+            "m_Desc": "x3 công hỗ trợ",
+            "m_BuffDuration": 400,
+            "m_GoldUpdate": 20,
+            "m_GemLock": 60,
+            "m_type": 2,
+            "m_value": 3
+          },
+          {
+            "m_Id": 1006,
+            "m_icon": "nanzhujue_2_kuangbao_y",
+            "m_GemCost": 20,
+            "m_PathSprite": "buff_leader",
+            "m_Desc": "x3 tài nguyên",
+            "m_BuffDuration": 600,
+            "m_GoldUpdate": 20,
+            "m_GemLock": 60,
+            "m_type": 3,
+            "m_value": 3
+          },
+          {
+            "m_Id": 1007,
+            "m_icon": "nanzhujue_2_shengminghudun_y",
+            "m_GemCost": 30,
+            "m_PathSprite": "buff_leader",
+            "m_Desc": "x4 công chủ tướng",
+            "m_BuffDuration": 400,
+            "m_GoldUpdate": 30,
+            "m_GemLock": 70,
+            "m_type": 1,
+            "m_value": 4
+          },
+          {
+            "m_Id": 1008,
+            "m_icon": "nanzhujue_2_yijianfenghou_y",
+            "m_GemCost": 30,
+            "m_PathSprite": "buff_leader",
+            "m_Desc": "x4 công hỗ trợ",
+            "m_BuffDuration": 400,
+            "m_GoldUpdate": 30,
+            "m_GemLock": 70,
+            "m_type": 2,
+            "m_value": 4
+          },
+          {
+            "m_Id": 1009,
+            "m_icon": "nanzhujuej_1_badaohongji_y",
+            "m_GemCost": 30,
+            "m_PathSprite": "buff_leader",
+            "m_Desc": "x4 tài nguyên",
+            "m_BuffDuration": 600,
+            "m_GoldUpdate": 30,
+            "m_GemLock": 70,
+            "m_type": 3,
+            "m_value": 4
+          },
+          {
+            "m_Id": 1010,
+            "m_icon": "nvzhujue_1_leidianchongji_y",
+            "m_GemCost": 40,
+            "m_PathSprite": "buff_leader",
+            "m_Desc": "x3 tất cả",
+            "m_BuffDuration": 400,
+            "m_GoldUpdate": 40,
+            "m_GemLock": 80,
+            "m_type": 4,
+            "m_value": 3
+          }
+        ],
+        "payment": [
+          {
+            "id": 1001,
+            "product_id": "vn.hoaanh.daichiengame.app.thethang",
+            "name_package": "Gói 100 Kim cương",
+            "price": 89000,
+            "icon": "gem_1",
+            "typeCoin": 1,
+            "value": 1000
+          },
+          {
+            "id": 1002,
+            "product_id": "vn.hoaanh.daichiengame.app.thethang2",
+            "name_package": "Gói 200 Kim cương",
+            "price": 179000,
+            "icon": "gem_2",
+            "typeCoin": 1,
+            "value": 2000
+          },
+          {
+            "id": 1003,
+            "product_id": "vn.hoaanh.daichiengame.app.kimcuong1",
+            "name_package": "Gói 300 Kim cương",
+            "price": 22000,
+            "icon": "gem_3",
+            "typeCoin": 1,
+            "value": 3000
+          },
+          {
+            "id": 1004,
+            "product_id": "vn.hoaanh.daichiengame.app.kimcuong2",
+            "name_package": "Gói 400 Kim cương",
+            "price": 109000,
+            "icon": "gem_4",
+            "typeCoin": 1,
+            "value": 4000
+          },
+          {
+            "id": 1005,
+            "product_id": "vn.hoaanh.daichiengame.app.kimcuong3",
+            "name_package": "Gói 500 Kim cương",
+            "price": 329000,
+            "icon": "gem_5",
+            "typeCoin": 1,
+            "value": 5000
+          },
+          {
+            "id": 1006,
+            "product_id": "vn.hoaanh.daichiengame.app.kimcuong4",
+            "name_package": "Gói 600 Kim cương",
+            "price": 699000,
+            "icon": "gem_6",
+            "typeCoin": 1,
+            "value": 6000
+          },
+          {
+            "id": 1007,
+            "product_id": "vn.hoaanh.daichiengame.app.kimcuong5",
+            "name_package": "Gói 700 Kim cương",
+            "price": 1099000,
+            "icon": "gem_7",
+            "typeCoin": 1,
+            "value": 7000
+          },
+          {
+            "id": 1008,
+            "product_id": "vn.hoaanh.daichiengame.app.kimcuong6",
+            "name_package": "Gói 800 Kim cương",
+            "price": 2199000,
+            "icon": "gem_8",
+            "typeCoin": 1,
+            "value": 8000
+          },
+          {
+            "id": 1009,
+            "product_id": "vn.hoaanh.daichiengame.app.vang1",
+            "name_package": "Gói Vàng 1000 vàng",
+            "price": 22000,
+            "icon": "gold_1",
+            "typeCoin": 2,
+            "value": 1000
+          },
+          {
+            "id": 1010,
+            "product_id": "vn.hoaanh.daichiengame.app.vang2",
+            "name_package": "Gói Vàng 2000 vàng",
+            "price": 45000,
+            "icon": "gold_2",
+            "typeCoin": 2,
+            "value": 2000
+          },
+          {
+            "id": 1011,
+            "product_id": "vn.hoaanh.daichiengame.app.vang3",
+            "name_package": "Gói Vàng 3000 vàng",
+            "price": 69000,
+            "icon": "gold_1",
+            "typeCoin": 2,
+            "value": 3000
+          },
+          {
+            "id": 1012,
+            "product_id": "vn.hoaanh.daichiengame.app.vang4",
+            "name_package": "Gói Vàng 4000 vàng",
+            "price": 109000,
+            "icon": "gold_2",
+            "typeCoin": 2,
+            "value": 4000
+          },
+          {
+            "id": 1013,
+            "product_id": "vn.hoaanh.daichiengame.app.vang5",
+            "name_package": "Gói Vàng 5000 vàng",
+            "price": 179000,
+            "icon": "gold_1",
+            "typeCoin": 2,
+            "value": 5000
+          },
+          {
+            "id": 1014,
+            "product_id": "vn.hoaanh.daichiengame.app.vang6",
+            "name_package": "Gói Vàng 6000 vàng",
+            "price": 219000,
+            "icon": "gold_2",
+            "typeCoin": 2,
+            "value": 6000
+          },
+          {
+            "id": 1015,
+            "product_id": "vn.hoaanh.daichiengame.app.vang7",
+            "name_package": "Gói Vàng 7000 vàng",
+            "price": 329000,
+            "icon": "gold_1",
+            "typeCoin": 2,
+            "value": 7000
+          },
+          {
+            "id": 1016,
+            "product_id": "vn.hoaanh.daichiengame.app.vang8",
+            "name_package": "Gói Vàng 8000 vàng",
+            "price": 449000,
+            "icon": "gold_2",
+            "typeCoin": 2,
+            "value": 8000
+          },
+          {
+            "id": 1017,
+            "product_id": "vn.hoaanh.daichiengame.app.vang9",
+            "name_package": "Gói Vàng 9000 vàng",
+            "price": 699000,
+            "icon": "gold_1",
+            "typeCoin": 2,
+            "value": 9000
+          },
+          {
+            "id": 1018,
+            "product_id": "vn.hoaanh.daichiengame.app.vang10",
+            "name_package": "Gói Vàng 10000 vàng",
+            "price": 1099000,
+            "icon": "gold_2",
+            "typeCoin": 2,
+            "value": 10000
+          },
+          {
+            "id": 1019,
+            "product_id": "vn.hoaanh.daichiengame.app.vang11",
+            "name_package": "Gói Vàng 11000 vàng",
+            "price": 2199000,
+            "icon": "gold_1",
+            "typeCoin": 2,
+            "value": 11000
+          },
+          {
+            "id": 1020,
+            "product_id": "vn.hoaanh.daichiengame.app.vang12",
+            "name_package": "Gói Vàng 12000 vàng",
+            "price": 449000,
+            "icon": "gold_1",
+            "typeCoin": 2,
+            "value": 12000
+          },
+          {
+            "id": 1021,
+            "product_id": "vn.hoaanh.daichiengame.app.kimcuong7",
+            "name_package": "Gói 900 Kim cương",
+            "price": 2199000,
+            "icon": "gem_8",
+            "typeCoin": 1,
+            "value": 900
+          }
+        ],
+        "item_complice": [
+          {
+            "id": 3021,
+            "level": 3,
+            "icon": "16",
+            "type": 1,
+            "position": 3,
+            "name": "[Good]- Bao Tay",
+            "descretion": "[Good]- Bao Tay",
+            "slGop": 60,
+            "diamon": 50,
+            "attack": [
+              50,
+              100
+            ],
+            "health": [
+              0,
+              0
+            ],
+            "speed": [
+              0,
+              0
+            ],
+            "defends": [
+              0,
+              0
+            ]
+          },
+          {
+            "id": 3031,
+            "level": 4,
+            "icon": "22",
+            "type": 1,
+            "position": 3,
+            "name": "[Great]- Bao Tay",
+            "descretion": "[Great]- Bao Tay",
+            "slGop": 80,
+            "diamon": 100,
+            "attack": [
+              50,
+              200
+            ],
+            "health": [
+              20,
+              70
+            ],
+            "speed": [
+              0,
+              0
+            ],
+            "defends": [
+              0,
+              0
+            ]
+          },
+          {
+            "id": 3041,
+            "level": 5,
+            "icon": "28",
+            "type": 1,
+            "position": 3,
+            "name": "[Perfect]- Bao Tay",
+            "descretion": "[Perfect]- Bao Tay",
+            "slGop": 100,
+            "diamon": 200,
+            "attack": [
+              50,
+              300
+            ],
+            "health": [
+              30,
+              90
+            ],
+            "speed": [
+              20,
+              40
+            ],
+            "defends": [
+              0,
+              0
+            ]
+          },
+          {
+            "id": 4021,
+            "level": 3,
+            "icon": "18",
+            "type": 1,
+            "position": 4,
+            "name": "[Good]- Giày",
+            "descretion": "[Good]- Giày",
+            "slGop": 60,
+            "diamon": 50,
+            "attack": [
+              0,
+              0
+            ],
+            "health": [
+              0,
+              0
+            ],
+            "speed": [
+              50,
+              100
+            ],
+            "defends": [
+              0,
+              0
+            ]
+          },
+          {
+            "id": 4031,
+            "level": 4,
+            "icon": "24",
+            "type": 1,
+            "position": 4,
+            "name": "[Great]- Giày",
+            "descretion": "[Great]- Giày",
+            "slGop": 80,
+            "diamon": 100,
+            "attack": [
+              0,
+              0
+            ],
+            "health": [
+              0,
+              0
+            ],
+            "speed": [
+              50,
+              200
+            ],
+            "defends": [
+              20,
+              40
+            ]
+          },
+          {
+            "id": 4041,
+            "level": 5,
+            "icon": "30",
+            "type": 1,
+            "position": 4,
+            "name": "[Perfect]- Giày",
+            "descretion": "[Perfect]- Giày",
+            "slGop": 100,
+            "diamon": 200,
+            "attack": [
+              0,
+              0
+            ],
+            "health": [
+              10,
+              50
+            ],
+            "speed": [
+              50,
+              300
+            ],
+            "defends": [
+              30,
+              50
+            ]
+          },
+          {
+            "id": 1021,
+            "level": 3,
+            "icon": "13",
+            "type": 1,
+            "position": 1,
+            "name": "[Good]- Nón",
+            "descretion": "[Good]- Nón",
+            "slGop": 60,
+            "diamon": 50,
+            "attack": [
+              0,
+              0
+            ],
+            "health": [
+              0,
+              0
+            ],
+            "speed": [
+              0,
+              0
+            ],
+            "defends": [
+              50,
+              100
+            ]
+          },
+          {
+            "id": 1031,
+            "level": 4,
+            "icon": "19",
+            "type": 1,
+            "position": 1,
+            "name": "[Great]- Nón",
+            "descretion": "[Great]- Nón",
+            "slGop": 80,
+            "diamon": 100,
+            "attack": [
+              0,
+              0
+            ],
+            "health": [
+              0,
+              0
+            ],
+            "speed": [
+              20,
+              50
+            ],
+            "defends": [
+              50,
+              200
+            ]
+          },
+          {
+            "id": 1041,
+            "level": 5,
+            "icon": "25",
+            "type": 1,
+            "position": 1,
+            "name": "[Perfect]- Nón",
+            "descretion": "[Perfect]- Nón",
+            "slGop": 100,
+            "diamon": 200,
+            "attack": [
+              0,
+              0
+            ],
+            "health": [
+              40,
+              80
+            ],
+            "speed": [
+              30,
+              70
+            ],
+            "defends": [
+              50,
+              300
+            ]
+          },
+          {
+            "id": 2021,
+            "level": 3,
+            "icon": "14",
+            "type": 1,
+            "position": 2,
+            "name": "[Good]- Giáp",
+            "descretion": "[Good]- Giáp",
+            "slGop": 60,
+            "diamon": 50,
+            "attack": [
+              0,
+              0
+            ],
+            "health": [
+              50,
+              100
+            ],
+            "speed": [
+              0,
+              0
+            ],
+            "defends": [
+              0,
+              0
+            ]
+          },
+          {
+            "id": 2031,
+            "level": 4,
+            "icon": "20",
+            "type": 1,
+            "position": 2,
+            "name": "[Great]- Giáp",
+            "descretion": "[Great]- Giáp",
+            "slGop": 80,
+            "diamon": 100,
+            "attack": [
+              20,
+              40
+            ],
+            "health": [
+              50,
+              200
+            ],
+            "speed": [
+              0,
+              0
+            ],
+            "defends": [
+              0,
+              0
+            ]
+          },
+          {
+            "id": 2041,
+            "level": 5,
+            "icon": "26",
+            "type": 1,
+            "position": 2,
+            "name": "[Perfect]- Giáp",
+            "descretion": "[Perfect]- Giáp",
+            "slGop": 100,
+            "diamon": 200,
+            "attack": [
+              30,
+              60
+            ],
+            "health": [
+              50,
+              300
+            ],
+            "speed": [
+              50,
+              70
+            ],
+            "defends": [
+              0,
+              0
+            ]
+          }
+        ],
+        "questData": [
+          {
+            "id": 1001,
+            "icon": "m_quest_1",
+            "name": "Nâng cấp tướng",
+            "decreption": "Nâng cấp tướng chính lên Level 2",
+            "type_require": 1,
+            "type_coin": 1,
+            "value_get": 100,
+            "value_require": [
+              1,
+              2
+            ]
+          },
+          {
+            "id": 1002,
+            "icon": "m_quest_1",
+            "name": "Nâng cấp tướng",
+            "decreption": "Nâng cấp tướng chính lên Level 10",
+            "type_require": 1,
+            "type_coin": 1,
+            "value_get": 200,
+            "value_require": [
+              1,
+              10
+            ]
+          },
+          {
+            "id": 1003,
+            "icon": "m_quest_1",
+            "name": "Nâng cấp tướng",
+            "decreption": "Nâng cấp tướng chính lên Level 20",
+            "type_require": 1,
+            "type_coin": 1,
+            "value_get": 300,
+            "value_require": [
+              1,
+              20
+            ]
+          },
+          {
+            "id": 1004,
+            "icon": "m_quest_1",
+            "name": "Mở khóa tướng",
+            "decreption": "Mở khóa tướng 2 ",
+            "type_require": 2,
+            "type_coin": 2,
+            "value_get": 10,
+            "value_require": [
+              2,
+              0
+            ]
+          },
+          {
+            "id": 1005,
+            "icon": "m_quest_1",
+            "name": "Nâng cấp tướng 2",
+            "decreption": "Nâng cấp tướng 2 lên level 5",
+            "type_require": 1,
+            "type_coin": 1,
+            "value_get": 100,
+            "value_require": [
+              2,
+              5
+            ]
+          },
+          {
+            "id": 1006,
+            "icon": "m_quest_1",
+            "name": "Nâng cấp tướng 2",
+            "decreption": "Nâng cấp tướng 2 lên level 20",
+            "type_require": 1,
+            "type_coin": 1,
+            "value_get": 200,
+            "value_require": [
+              2,
+              20
+            ]
+          },
+          {
+            "id": 1007,
+            "icon": "m_quest_1",
+            "name": "Mở khóa tướng",
+            "decreption": "Mở khóa tướng 3 ",
+            "type_require": 2,
+            "type_coin": 2,
+            "value_get": 10,
+            "value_require": [
+              3,
+              0
+            ]
+          },
+          {
+            "id": 1008,
+            "icon": "m_quest_1",
+            "name": "Nâng cấp tướng 3",
+            "decreption": "Nâng cấp tướng 3 lên level 5",
+            "type_require": 1,
+            "type_coin": 1,
+            "value_get": 100,
+            "value_require": [
+              3,
+              5
+            ]
+          },
+          {
+            "id": 1009,
+            "icon": "m_quest_1",
+            "name": "Nâng cấp tướng 3",
+            "decreption": "Nâng cấp tướng 3 lên level 20",
+            "type_require": 1,
+            "type_coin": 1,
+            "value_get": 200,
+            "value_require": [
+              3,
+              20
+            ]
+          },
+          {
+            "id": 1010,
+            "icon": "m_quest_1",
+            "name": "Mở khóa tướng",
+            "decreption": "Mở khóa tướng 4 ",
+            "type_require": 2,
+            "type_coin": 2,
+            "value_get": 10,
+            "value_require": [
+              4,
+              0
+            ]
+          },
+          {
+            "id": 1011,
+            "icon": "m_quest_1",
+            "name": "Nâng cấp tướng 4",
+            "decreption": "Nâng cấp tướng 4 lên level 5",
+            "type_require": 1,
+            "type_coin": 1,
+            "value_get": 100,
+            "value_require": [
+              4,
+              5
+            ]
+          },
+          {
+            "id": 1012,
+            "icon": "m_quest_1",
+            "name": "Nâng cấp tướng 4",
+            "decreption": "Nâng cấp tướng 4 lên level 20",
+            "type_require": 1,
+            "type_coin": 1,
+            "value_get": 200,
+            "value_require": [
+              4,
+              20
+            ]
+          },
+          {
+            "id": 1013,
+            "icon": "m_quest_1",
+            "name": "Mở khóa tướng",
+            "decreption": "Mở khóa tướng 5 ",
+            "type_require": 2,
+            "type_coin": 2,
+            "value_get": 10,
+            "value_require": [
+              5,
+              0
+            ]
+          },
+          {
+            "id": 1014,
+            "icon": "m_quest_1",
+            "name": "Nâng cấp tướng 5",
+            "decreption": "Nâng cấp tướng 5 lên level 5",
+            "type_require": 1,
+            "type_coin": 1,
+            "value_get": 100,
+            "value_require": [
+              5,
+              5
+            ]
+          },
+          {
+            "id": 1015,
+            "icon": "m_quest_1",
+            "name": "Nâng cấp tướng 5",
+            "decreption": "Nâng cấp tướng 5 lên level 20",
+            "type_require": 1,
+            "type_coin": 1,
+            "value_get": 200,
+            "value_require": [
+              5,
+              20
+            ]
+          }
+        ],
+        "road": [
+          {
+            "id": 10001,
+            "level": 1,
+            "gold": 2,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": false,
+            "slRewar": 0
+          },
+          {
+            "id": 10002,
+            "level": 1,
+            "gold": 2,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": true,
+            "slRewar": 1
+          },
+          {
+            "id": 10003,
+            "level": 1,
+            "gold": 2,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": true,
+            "slRewar": 1
+          },
+          {
+            "id": 10004,
+            "level": 1,
+            "gold": 2,
+            "coin": 2,
+            "isBoss": false,
+            "isRewar": false,
+            "slRewar": 0
+          },
+          {
+            "id": 10005,
+            "level": 1,
+            "gold": 2,
+            "coin": 2,
+            "isBoss": false,
+            "isRewar": false,
+            "slRewar": 0
+          },
+          {
+            "id": 10006,
+            "level": 1,
+            "gold": 10,
+            "coin": 10,
+            "isBoss": true,
+            "isRewar": true,
+            "slRewar": 3
+          },
+          {
+            "id": 10101,
+            "level": 2,
+            "gold": 3,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": false,
+            "slRewar": 0
+          },
+          {
+            "id": 10102,
+            "level": 2,
+            "gold": 3,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": true,
+            "slRewar": 1
+          },
+          {
+            "id": 10103,
+            "level": 2,
+            "gold": 3,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": true,
+            "slRewar": 1
+          },
+          {
+            "id": 10104,
+            "level": 2,
+            "gold": 3,
+            "coin": 2,
+            "isBoss": false,
+            "isRewar": false,
+            "slRewar": 0
+          },
+          {
+            "id": 10105,
+            "level": 2,
+            "gold": 3,
+            "coin": 2,
+            "isBoss": false,
+            "isRewar": false,
+            "slRewar": 0
+          },
+          {
+            "id": 10106,
+            "level": 2,
+            "gold": 3,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": true,
+            "slRewar": 1
+          },
+          {
+            "id": 10107,
+            "level": 2,
+            "gold": 3,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": true,
+            "slRewar": 1
+          },
+          {
+            "id": 10108,
+            "level": 2,
+            "gold": 12,
+            "coin": 12,
+            "isBoss": true,
+            "isRewar": true,
+            "slRewar": 3
+          },
+          {
+            "id": 10201,
+            "level": 3,
+            "gold": 4,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": false,
+            "slRewar": 0
+          },
+          {
+            "id": 10202,
+            "level": 3,
+            "gold": 4,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": true,
+            "slRewar": 1
+          },
+          {
+            "id": 10203,
+            "level": 3,
+            "gold": 4,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": true,
+            "slRewar": 1
+          },
+          {
+            "id": 10204,
+            "level": 3,
+            "gold": 4,
+            "coin": 2,
+            "isBoss": false,
+            "isRewar": false,
+            "slRewar": 0
+          },
+          {
+            "id": 10205,
+            "level": 3,
+            "gold": 4,
+            "coin": 2,
+            "isBoss": false,
+            "isRewar": false,
+            "slRewar": 0
+          },
+          {
+            "id": 10206,
+            "level": 3,
+            "gold": 4,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": true,
+            "slRewar": 1
+          },
+          {
+            "id": 10207,
+            "level": 3,
+            "gold": 4,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": true,
+            "slRewar": 1
+          },
+          {
+            "id": 10208,
+            "level": 3,
+            "gold": 4,
+            "coin": 3,
+            "isBoss": false,
+            "isRewar": false,
+            "slRewar": 0
+          },
+          {
+            "id": 10209,
+            "level": 3,
+            "gold": 4,
+            "coin": 3,
+            "isBoss": false,
+            "isRewar": false,
+            "slRewar": 0
+          },
+          {
+            "id": 10210,
+            "level": 3,
+            "gold": 15,
+            "coin": 15,
+            "isBoss": true,
+            "isRewar": true,
+            "slRewar": 4
+          },
+          {
+            "id": 10301,
+            "level": 4,
+            "gold": 4,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": false,
+            "slRewar": 0
+          },
+          {
+            "id": 10302,
+            "level": 4,
+            "gold": 4,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": false,
+            "slRewar": 0
+          },
+          {
+            "id": 10303,
+            "level": 4,
+            "gold": 4,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": true,
+            "slRewar": 4
+          },
+          {
+            "id": 10304,
+            "level": 4,
+            "gold": 4,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": false,
+            "slRewar": 0
+          },
+          {
+            "id": 10305,
+            "level": 4,
+            "gold": 4,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": true,
+            "slRewar": 4
+          },
+          {
+            "id": 10306,
+            "level": 4,
+            "gold": 4,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": true,
+            "slRewar": 4
+          },
+          {
+            "id": 10307,
+            "level": 4,
+            "gold": 4,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": false,
+            "slRewar": 0
+          },
+          {
+            "id": 10308,
+            "level": 4,
+            "gold": 4,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": false,
+            "slRewar": 0
+          },
+          {
+            "id": 10309,
+            "level": 4,
+            "gold": 4,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": false,
+            "slRewar": 0
+          },
+          {
+            "id": 10310,
+            "level": 4,
+            "gold": 4,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": false,
+            "slRewar": 0
+          },
+          {
+            "id": 10311,
+            "level": 4,
+            "gold": 4,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": false,
+            "slRewar": 0
+          },
+          {
+            "id": 10312,
+            "level": 4,
+            "gold": 20,
+            "coin": 20,
+            "isBoss": true,
+            "isRewar": true,
+            "slRewar": 5
+          },
+          {
+            "id": 10401,
+            "level": 5,
+            "gold": 5,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": false,
+            "slRewar": 0
+          },
+          {
+            "id": 10402,
+            "level": 5,
+            "gold": 5,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": true,
+            "slRewar": 2
+          },
+          {
+            "id": 10403,
+            "level": 5,
+            "gold": 5,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": false,
+            "slRewar": 0
+          },
+          {
+            "id": 10404,
+            "level": 5,
+            "gold": 5,
+            "coin": 5,
+            "isBoss": false,
+            "isRewar": false,
+            "slRewar": 0
+          },
+          {
+            "id": 10405,
+            "level": 5,
+            "gold": 5,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": true,
+            "slRewar": 2
+          },
+          {
+            "id": 10406,
+            "level": 5,
+            "gold": 5,
+            "coin": 5,
+            "isBoss": false,
+            "isRewar": false,
+            "slRewar": 0
+          },
+          {
+            "id": 10407,
+            "level": 5,
+            "gold": 5,
+            "coin": 5,
+            "isBoss": false,
+            "isRewar": false,
+            "slRewar": 0
+          },
+          {
+            "id": 10408,
+            "level": 5,
+            "gold": 5,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": false,
+            "slRewar": 0
+          },
+          {
+            "id": 10409,
+            "level": 5,
+            "gold": 5,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": true,
+            "slRewar": 2
+          },
+          {
+            "id": 10410,
+            "level": 5,
+            "gold": 5,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": false,
+            "slRewar": 0
+          },
+          {
+            "id": 10411,
+            "level": 5,
+            "gold": 5,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": false,
+            "slRewar": 0
+          },
+          {
+            "id": 10412,
+            "level": 5,
+            "gold": 5,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": false,
+            "slRewar": 0
+          },
+          {
+            "id": 10413,
+            "level": 5,
+            "gold": 5,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": true,
+            "slRewar": 3
+          },
+          {
+            "id": 10414,
+            "level": 5,
+            "gold": 5,
+            "coin": 0,
+            "isBoss": false,
+            "isRewar": false,
+            "slRewar": 0
+          },
+          {
+            "id": 10415,
+            "level": 5,
+            "gold": 20,
+            "coin": 20,
+            "isBoss": true,
+            "isRewar": true,
+            "slRewar": 5
+          }
+        ],
+        "map": [
+          {
+            "id": 1001,
+            "map_level": 1,
+            "pos": [
+              -285,
+              29
+            ]
+          },
+          {
+            "id": 1002,
+            "map_level": 1,
+            "pos": [
+              -124,
+              -28
+            ]
+          },
+          {
+            "id": 1003,
+            "map_level": 1,
+            "pos": [
+              -16,
+              -41
+            ]
+          },
+          {
+            "id": 1004,
+            "map_level": 1,
+            "pos": [
+              33,
+              62
+            ]
+          },
+          {
+            "id": 1005,
+            "map_level": 1,
+            "pos": [
+              77,
+              139
+            ]
+          },
+          {
+            "id": 1006,
+            "map_level": 1,
+            "pos": [
+              245,
+              77
+            ]
+          },
+          {
+            "id": 1007,
+            "map_level": 1,
+            "pos": [
+              361,
+              20
+            ]
+          },
+          {
+            "id": 2001,
+            "map_level": 2,
+            "pos": [
+              -365,
+              -13
+            ]
+          },
+          {
+            "id": 2002,
+            "map_level": 2,
+            "pos": [
+              -230,
+              -12
+            ]
+          },
+          {
+            "id": 2003,
+            "map_level": 2,
+            "pos": [
+              -179,
+              136
+            ]
+          },
+          {
+            "id": 2004,
+            "map_level": 2,
+            "pos": [
+              -54,
+              -142
+            ]
+          },
+          {
+            "id": 2005,
+            "map_level": 2,
+            "pos": [
+              -1,
+              56
+            ]
+          },
+          {
+            "id": 2006,
+            "map_level": 2,
+            "pos": [
+              76,
+              -45
+            ]
+          },
+          {
+            "id": 2007,
+            "map_level": 2,
+            "pos": [
+              243,
+              8
+            ]
+          },
+          {
+            "id": 2008,
+            "map_level": 2,
+            "pos": [
+              341,
+              109
+            ]
+          },
+          {
+            "id": 3001,
+            "map_level": 3,
+            "pos": [
+              -354,
+              31
+            ]
+          },
+          {
+            "id": 3002,
+            "map_level": 3,
+            "pos": [
+              -183,
+              28
+            ]
+          },
+          {
+            "id": 3003,
+            "map_level": 3,
+            "pos": [
+              -166,
+              27
+            ]
+          },
+          {
+            "id": 3004,
+            "map_level": 3,
+            "pos": [
+              -56,
+              159
+            ]
+          },
+          {
+            "id": 3005,
+            "map_level": 3,
+            "pos": [
+              61,
+              187
+            ]
+          },
+          {
+            "id": 3006,
+            "map_level": 3,
+            "pos": [
+              9,
+              90
+            ]
+          },
+          {
+            "id": 3007,
+            "map_level": 3,
+            "pos": [
+              -27,
+              -10
+            ]
+          },
+          {
+            "id": 3008,
+            "map_level": 3,
+            "pos": [
+              164,
+              49
+            ]
+          },
+          {
+            "id": 3009,
+            "map_level": 3,
+            "pos": [
+              328,
+              138
+            ]
+          }
+        ]
+      }
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

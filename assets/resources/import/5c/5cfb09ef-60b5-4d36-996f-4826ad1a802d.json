@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "3dqjJKoR5HIo/BgD6qGSmk"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "border_propertis",
+      "rect": [
+        0,
+        0,
+        208,
+        47
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        208,
+        47
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "27wzoxy95PPKmKIXv49/Pv"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "gem_4",
+      "rect": [
+        7,
+        20,
+        86,
+        64
+      ],
+      "offset": [
+        0,
+        -2
+      ],
+      "originalSize": [
+        100,
+        100
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

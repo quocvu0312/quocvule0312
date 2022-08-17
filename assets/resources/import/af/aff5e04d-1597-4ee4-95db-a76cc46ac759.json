@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "636XDiZOlEfKwaJOb61kHP"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "ico_diamon",
+      "rect": [
+        0,
+        0,
+        48,
+        47
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        48,
+        47
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

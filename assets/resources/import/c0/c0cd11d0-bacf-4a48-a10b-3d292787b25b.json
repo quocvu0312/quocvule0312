@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "bcC4ETeOdLyJ5aEgPpbVjk"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "caodi1",
+      "rect": [
+        0,
+        0,
+        1200,
+        1000
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        1200,
+        1000
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

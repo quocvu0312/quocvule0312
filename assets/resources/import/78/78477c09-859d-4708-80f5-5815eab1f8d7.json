@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "5c/8MHJC1Kt5H3MAPvcPRu"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "rec_top",
+      "rect": [
+        0,
+        0,
+        750,
+        103
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        750,
+        103
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

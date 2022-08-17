@@ -1,0 +1,45 @@
+[
+  1,
+  [
+    "7bHB4kK11JxapWYgp30iwX"
+  ],
+  [
+    "_texture"
+  ],
+  [
+    [
+      "dragonBones.DragonBonesAtlasAsset",
+      [
+        "_name",
+        "_atlasJson"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "10010_tex",
+      "{\"width\":512,\"SubTexture\":[{\"width\":103,\"y\":482,\"height\":22,\"name\":\"yinying\",\"x\":257},{\"width\":25,\"y\":169,\"height\":21,\"name\":\"youshou\",\"x\":143},{\"width\":17,\"y\":222,\"height\":41,\"name\":\"toufa\",\"x\":493},{\"width\":70,\"y\":192,\"height\":74,\"name\":\"hou_ya\",\"x\":289},{\"width\":33,\"y\":112,\"height\":62,\"name\":\"weiba\",\"x\":467},{\"width\":24,\"y\":484,\"height\":27,\"name\":\"hou_jiao1\",\"x\":231},{\"width\":34,\"y\":407,\"height\":41,\"name\":\"hou jiao1_0\",\"x\":377},{\"width\":31,\"y\":244,\"height\":39,\"name\":\"qian_jiao1\",\"x\":406},{\"width\":35,\"y\":368,\"height\":34,\"name\":\"qian_jiao2\",\"x\":460},{\"width\":116,\"y\":335,\"height\":76,\"name\":\"shenti\",\"x\":172},{\"width\":34,\"y\":176,\"height\":44,\"name\":\"houjiao\",\"x\":476},{\"width\":46,\"y\":112,\"height\":57,\"name\":\"houjiao_0\",\"x\":419},{\"width\":37,\"y\":357,\"height\":48,\"name\":\"qian_jiao\",\"x\":377},{\"width\":43,\"y\":324,\"height\":42,\"name\":\"qianjiao\",\"x\":439},{\"width\":57,\"y\":1,\"height\":58,\"name\":\"an\",\"x\":419},{\"width\":43,\"y\":192,\"height\":96,\"name\":\"bi_zi\",\"x\":361},{\"width\":63,\"y\":61,\"height\":49,\"name\":\"toufa_0\",\"x\":419},{\"width\":13,\"y\":265,\"height\":23,\"name\":\"xiao_tui\",\"x\":493},{\"width\":9,\"y\":290,\"height\":14,\"name\":\"zuo_jiao\",\"x\":501},{\"width\":15,\"y\":222,\"height\":19,\"name\":\"da_tui\",\"x\":476},{\"width\":85,\"y\":353,\"height\":52,\"name\":\"bianzi\",\"x\":290},{\"width\":15,\"y\":171,\"height\":16,\"name\":\"xia_bai\",\"x\":442},{\"width\":23,\"y\":290,\"height\":33,\"name\":\"ren\",\"x\":352},{\"width\":23,\"y\":40,\"height\":30,\"name\":\"yumao\",\"x\":484},{\"width\":33,\"y\":1,\"height\":37,\"name\":\"zuo_chibang\",\"x\":478},{\"width\":42,\"y\":368,\"height\":41,\"name\":\"you_chibang\",\"x\":416},{\"width\":60,\"y\":290,\"height\":65,\"name\":\"tou\",\"x\":377},{\"width\":22,\"y\":335,\"height\":15,\"name\":\"zuo_shoubi\",\"x\":143},{\"width\":52,\"y\":244,\"height\":45,\"name\":\"dao\",\"x\":439},{\"width\":22,\"y\":72,\"height\":29,\"name\":\"zuoshou\",\"x\":484},{\"width\":19,\"y\":324,\"height\":42,\"name\":\"liuhai\",\"x\":484},{\"width\":22,\"y\":325,\"height\":25,\"name\":\"jiao\",\"x\":352},{\"width\":21,\"y\":171,\"height\":18,\"name\":\"xiao_ya\",\"x\":419},{\"width\":60,\"y\":268,\"height\":83,\"name\":\"erduo\",\"x\":290},{\"width\":83,\"y\":413,\"height\":69,\"name\":\"xiangtou\",\"x\":172},{\"width\":86,\"y\":413,\"height\":67,\"name\":\"da_ya\",\"x\":289},{\"width\":68,\"y\":192,\"height\":50,\"name\":\"tou_mao\",\"x\":406},{\"frameWidth\":16,\"y\":176,\"frameHeight\":17,\"width\":13,\"frameX\":-2,\"height\":14,\"name\":\"faguang\",\"frameY\":-1,\"x\":459},{\"frameWidth\":72,\"y\":482,\"frameHeight\":46,\"width\":45,\"frameX\":-5,\"height\":22,\"name\":\"yan-4\",\"frameY\":-13,\"x\":409},{\"frameWidth\":72,\"y\":291,\"frameHeight\":46,\"width\":60,\"frameX\":-5,\"height\":31,\"name\":\"yan-3\",\"frameY\":-5,\"x\":439},{\"frameWidth\":72,\"y\":484,\"frameHeight\":46,\"width\":57,\"frameX\":-6,\"height\":27,\"name\":\"yan-2\",\"frameY\":-9,\"x\":172},{\"frameWidth\":72,\"y\":482,\"frameHeight\":46,\"width\":45,\"frameX\":-19,\"height\":24,\"name\":\"yan-1\",\"frameY\":-15,\"x\":362},{\"frameWidth\":281,\"y\":1,\"frameHeight\":253,\"width\":221,\"frameX\":-48,\"height\":166,\"name\":\"ta5\",\"frameY\":-79,\"x\":1},{\"frameWidth\":281,\"y\":353,\"frameHeight\":253,\"width\":169,\"frameX\":-73,\"height\":144,\"name\":\"ta4\",\"frameY\":-103,\"x\":1},{\"frameWidth\":281,\"y\":192,\"frameHeight\":253,\"width\":144,\"frameX\":-81,\"height\":141,\"name\":\"ta3\",\"frameY\":-81,\"x\":143},{\"frameWidth\":281,\"y\":1,\"frameHeight\":253,\"width\":193,\"frameX\":-14,\"height\":189,\"name\":\"ta2\",\"frameY\":-4,\"x\":224},{\"frameWidth\":281,\"y\":169,\"frameHeight\":253,\"width\":140,\"frameX\":-60,\"height\":182,\"name\":\"ta1\",\"frameY\":-1,\"x\":1}],\"height\":512,\"name\":\"10010\",\"imagePath\":\"10010_tex.png\"}"
+    ]
+  ],
+  0,
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

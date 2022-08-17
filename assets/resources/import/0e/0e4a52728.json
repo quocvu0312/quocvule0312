@@ -1,0 +1,260 @@
+[
+  1,
+  [
+    "f9RTLi3C5CZZnnAYtz3W/K",
+    "51DaQ7BcdHormtu7jTNrvU",
+    "45TwE9CmpEZ6Blf8+WYica",
+    "e82ue90z9LHK9HFbIeUclt",
+    "b3Y7qJNHxNQ6q+dCoEDQIW",
+    "0cMdZ1G/1PiY/Jcb3IYkeF"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    [
+      [
+        {
+          "name": "m_pop_equip",
+          "rect": [
+            0,
+            0,
+            636,
+            414
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            636,
+            414
+          ],
+          "capInsets": [
+            89,
+            108,
+            172,
+            92
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "point_speed",
+          "rect": [
+            5,
+            1,
+            31,
+            37
+          ],
+          "offset": [
+            0.5,
+            0.5
+          ],
+          "originalSize": [
+            40,
+            40
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ]
+    ],
+    [
+      [
+        {
+          "name": "point_healing",
+          "rect": [
+            1,
+            1,
+            38,
+            34
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            40,
+            36
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        2
+      ]
+    ],
+    [
+      [
+        {
+          "name": "btn_unlock",
+          "rect": [
+            0,
+            0,
+            163,
+            59
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            163,
+            59
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        3
+      ]
+    ],
+    [
+      [
+        {
+          "name": "point_attack",
+          "rect": [
+            3,
+            2,
+            33,
+            36
+          ],
+          "offset": [
+            -0.5,
+            0
+          ],
+          "originalSize": [
+            40,
+            40
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        4
+      ]
+    ],
+    [
+      [
+        {
+          "name": "point_hp",
+          "rect": [
+            3,
+            6,
+            35,
+            31
+          ],
+          "offset": [
+            0.5,
+            -1.5
+          ],
+          "originalSize": [
+            40,
+            40
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        5
+      ]
+    ]
+  ]
+]
